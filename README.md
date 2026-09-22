@@ -19,7 +19,6 @@
 ### Current work
 
 - Economic and data analysis for the public sector — Superintendencia de la Economía Solidaria
-- Master's thesis in Economics — Universidad Icesi
 
 ### What I do
 
@@ -38,15 +37,6 @@
 | [project-name](https://github.com/eemola/project-name) | One line: question, data, and main result | R · fixest |
 | [project-name](https://github.com/eemola/project-name) | One line: question, data, and main result | Python · scikit-learn |
 -->
-
----
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=eemola&show_icons=true&hide_border=true&theme=default&hide_title=true&hide=stars,contribs" alt="GitHub stats"/></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=eemola&hide_border=true&theme=default" alt="GitHub streak"/></td>
-  </tr>
-</table>
 
 ---
 
