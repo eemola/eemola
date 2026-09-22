@@ -1,30 +1,37 @@
-### Elkin Enoc Mola Vides
+<h1 align="center">Elkin Enoc Mola Vides</h1>
+<p align="center"><b>Economist · Data Analyst</b> — M.A. Economics student at Universidad Icesi · Cali, Colombia</p>
 
-**Economist · Data Analyst** — M.A. Economics student at Universidad Icesi · Cali, Colombia
+<p align="center">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Stata-1A5276?style=flat-square" alt="Stata"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-I work at the intersection of applied economics and data science: building clean, reproducible data pipelines, estimating econometric models, and turning the results into dashboards and reports that support public-sector decisions.
+<p align="center">
+  I work at the intersection of applied economics and data science: building clean, reproducible data pipelines, estimating econometric models, and turning the results into dashboards and reports that support public-sector decisions.
+</p>
 
-**Current work**
-- Economic and data analysis for the public sector (Superintendencia de la Economía Solidaria)
+---
+
+### Current work
+
+- Economic and data analysis for the public sector — Superintendencia de la Economía Solidaria
 - Master's thesis in Economics — Universidad Icesi
 
-**What I do**
-- **Data engineering for analysis** — automating the cleaning and consolidation of large datasets from multiple sources
-- **Applied econometrics** — economic modeling and applied research
-- **Machine learning** — predictive models for economic and financial data
-- **Reporting** — dashboards and reproducible reports for non-technical audiences
+### What I do
 
-**Tools**
-
-| Area | Stack |
+| | |
 |---|---|
-| Programming & data | R · Python · SQL |
-| Econometrics | Stata · R · Python |
-| Visualization & reporting | Power BI · Markdown |
-| Workflow | Git · GitHub |
+| **Data engineering for analysis** | Automating the cleaning and consolidation of large datasets from multiple sources |
+| **Applied econometrics** | Economic modeling and applied research |
+| **Machine learning** | Predictive models for economic and financial data |
+| **Reporting** | Dashboards and reproducible reports for non-technical audiences |
 
 <!--
-**Selected projects**
+### Selected projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -32,8 +39,21 @@ I work at the intersection of applied economics and data science: building clean
 | [project-name](https://github.com/eemola/project-name) | One line: question, data, and main result | Python · scikit-learn |
 -->
 
-**Resume** — [English (PDF)](https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf) · [Español (PDF)](https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf)
+---
 
-<!-- **Contact** — [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · your.email@example.com -->
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=eemola&show_icons=true&hide_border=true&theme=default&hide_title=true&hide=stars,contribs" alt="GitHub stats"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=eemola&hide_border=true&theme=default" alt="GitHub streak"/></td>
+  </tr>
+</table>
 
-Spanish (native) · English (B2)
+---
+
+<p align="center">
+  <b>Resume:</b> <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf">English (PDF)</a> · <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf">Español (PDF)</a>
+</p>
+
+<!-- <p align="center"><b>Contact:</b> <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> · your.email@example.com</p> -->
+
+<p align="center"><sub>Spanish (native) · English (B2)</sub></p>
