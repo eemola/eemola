@@ -1,49 +1,50 @@
 <h1 align="center">Elkin Enoc Mola Vides</h1>
-<p align="center"><b>Economist · Data Analyst</b> — M.A. Economics student at Universidad Icesi · Cali, Colombia</p>
+<p align="center"><b>Economist · Data Analyst</b><br/>M.A. Economics student at Universidad Icesi · Cali, Colombia</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Stata-1A5276?style=flat-square" alt="Stata"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 <p align="center">
-  I work at the intersection of applied economics and data science: building clean, reproducible data pipelines, estimating econometric models, and turning the results into dashboards and reports that support public-sector decisions.
+  <a href="https://www.linkedin.com/in/elkinmola/">LinkedIn</a> ·
+  <a href="mailto:molaelkin1@gmail.com">Email</a> ·
+  <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf">Resume (EN)</a> ·
+  <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf">Hoja de vida (ES)</a>
 </p>
 
 ---
 
-### Current work
+Economist focused on data analytics and machine learning, with a background in economic theory, econometrics and quantitative methods. I build reproducible data pipelines, consolidate large datasets from multiple sources, and turn the results into dashboards and technical reports that support evidence-based decisions in the public sector.
 
-- Economic and data analysis for the public sector — Superintendencia de la Economía Solidaria
+## Experience
 
-### What I do
-
-| | |
-|---|---|
-| **Data engineering for analysis** | Automating the cleaning and consolidation of large datasets from multiple sources |
-| **Applied econometrics** | Economic modeling and applied research |
-| **Machine learning** | Predictive models for economic and financial data |
-| **Reporting** | Dashboards and reproducible reports for non-technical audiences |
-
-<!--
-### Selected projects
-
-| Project | Description | Stack |
+| Period | Role | Focus |
 |---|---|---|
-| [project-name](https://github.com/eemola/project-name) | One line: question, data, and main result | R · fixest |
-| [project-name](https://github.com/eemola/project-name) | One line: question, data, and main result | Python · scikit-learn |
--->
+| 2023 – Present | **Economic Data Analyst** · Superintendencia de la Economía Solidaria | Automated data-processing workflows in R, consolidation of IPM, Census, RUES and Superfinanciera sources, Power BI dashboards, and technical reports in Markdown |
+| 2022 – 2023 | **Economic Researcher** · Gestión del Desarrollo Territorial Sostenible S.A.S. | Socioeconomic and supply-chain analysis for a sustainable-agriculture project; field instrument design and financial analysis |
 
----
+## Publications
 
-<p align="center">
-  <b>Resume:</b> <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf">English (PDF)</a> · <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf">Español (PDF)</a>
-</p>
+- **Economía solidaria en cifras: caracterización socioeconómica de un sector que transforma a Colombia** — Technical Working Document DTS 001, Superintendencia de la Economía Solidaria (2024)
+- **Jóvenes en la economía solidaria (2019–2023)** — Institutional Technical Report, Superintendencia de la Economía Solidaria (2024)
 
-<!-- <p align="center"><b>Contact:</b> <a href="https://www.linkedin.com/in/YOUR-HANDLE">LinkedIn</a> · your.email@example.com</p> -->
+## Skills
+
+| Area | Tools and methods |
+|---|---|
+| Advanced | R · Markdown reporting |
+| Intermediate | SQL · Stata · Power BI · Git & GitHub |
+| Basic | Python |
+| Knowledge areas | Applied economics · Econometrics · Data science · Machine learning · Predictive analysis |
+
+## Education
+
+- **M.A. Economics** — Universidad Icesi, Cali (2025 – Present)
+- **B.A. Economics** — Universidad del Magdalena (2017 – 2022)
 
 <p align="center"><sub>Spanish (native) · English (B2)</sub></p>
