@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elkinmola/">LinkedIn</a> ·
-  <a href="mailto:molaelkin1@gmail.com">Email</a> ·
   <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf">Resume (EN)</a> ·
   <a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf">Hoja de vida (ES)</a>
 </p>
