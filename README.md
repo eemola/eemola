@@ -29,7 +29,7 @@ Economist focused on data analytics and machine learning, with a background in e
 
 ## Selected projects
 
-Part of [Machine-Learning-Projects](https://github.com/eemola/Machine-Learning-Projects): applied machine learning in R, built on real housing listings from Cali.
+From [Machine-Learning-Projects](https://github.com/eemola/Machine-Learning-Projects), a growing collection of applied machine learning projects and exercises.
 
 | Project | What it does | Result |
 |---|---|---|
